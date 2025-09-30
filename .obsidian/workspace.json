@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Gym/Push Day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Push Day"
             }
           }
         ]
@@ -180,14 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2070d898ca45af29",
+  "active": "e458ab8946b3b53a",
   "lastOpenFiles": [
-    "This was on ipad.md",
+    "Gym/Untitled 1.md",
+    "Gym/Push Day.md",
+    "Gym/Gym Plan.md",
     "README.md",
+    "Ink/Writing/2025.9.30 - 16.55pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "Gym",
+    "This was on ipad.md",
     "this is a test.md",
     "dwad.md",
-    "Ink/Writing/2025.9.30 - 16.47pm.writing",
-    "Ink/Writing",
-    "Ink"
+    "Ink/Writing/2025.9.30 - 16.47pm.writing"
   ]
 }
