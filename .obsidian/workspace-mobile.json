@@ -11,10 +11,14 @@
             "id": "e61f815932a6cafc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gym/Hammy/HAMSTRING WORKOUTS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HAMSTRING WORKOUTS"
             }
           }
         ]
@@ -153,6 +157,14 @@
   },
   "active": "370ccce927f8bc29",
   "lastOpenFiles": [
+    "Gym/Push/PUSH WORKOUTS.md",
+    "README.md",
+    "Cdssc.md",
+    "Gym/Pull/PULL WORKOUTS.md",
+    "Gym/Hammy/HAMSTRING WORKOUTS.md",
+    "Gym/Hammy",
+    "Gym/Quad/QUAD WORKOUTS.md",
+    "Gym/Quad",
     "Gym/Push/Sep-30-2025.md",
     "Gym/Push",
     "Gym/Untitled 1.md",
@@ -169,7 +181,6 @@
     "Templates/Workouts.md",
     "Test.md",
     "Gym",
-    "README.md",
     "Templates",
     "Ink/Writing/2025.9.30 - 16.55pm.writing",
     "Ink/Writing",
