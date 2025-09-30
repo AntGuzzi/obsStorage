@@ -1,0 +1,10 @@
+`<% await tp.file.rename(tp.date.now("MMM-DD-YYYY"))%>`
+
+| Exercise     | Weight (lbs/kg) | Sets | Reps    |
+| ------------ | --------------- | ---- | ------- |
+| Barbell Row  |                 | 4    | 8       |
+| Seated Row   |                 | 4    | Failure |
+| Lat Pulldown |                 | 4    | 8       |
+| Dealt Flies  |                 | 4    | 10      |
+| Curls        |                 | 4    | Failure |
+| Hammer Curls |                 | 4    | 10      |

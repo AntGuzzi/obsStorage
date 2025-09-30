@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Gym/Push",
+      "template": "Templates/Push.md"
+    },
+    {
+      "folder": "Gym/Pull",
+      "template": "Templates/Pull.md"
+    },
+    {
+      "folder": "Gym/Hammy",
+      "template": "Templates/Hamstring.md"
+    },
+    {
+      "folder": "Gym/Quad",
+      "template": "Templates/Quads.md"
     }
   ],
   "enable_file_templates": false,

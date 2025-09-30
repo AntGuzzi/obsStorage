@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e458ab8946b3b53a",
+            "id": "ef98c4390a00b617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Push Day.md",
+                "file": "Templates/Push.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Push Day"
+              "title": "Push"
             }
           },
           {
-            "id": "3964c8079b180d55",
+            "id": "955acaac53373673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Workouts.md",
+                "file": "Gym/Pull/Sep-30-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workouts"
+              "title": "Sep-30-2025"
             }
           }
         ],
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +196,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3964c8079b180d55",
+  "active": "955acaac53373673",
   "lastOpenFiles": [
-    "Gym/Push Day.md",
-    "Templates/Workouts.md",
-    "Gym/Untitled 1.md",
+    "Templates/Push.md",
+    "Gym/Pull/Sep-30-2025.md",
+    "Gym/Pull/Sep-30-2025.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Gym/Gym Plan.md",
+    "Templates/Hamstring.md",
+    "Templates/Pull.md",
+    "Templates/Quads.md",
+    "Templates/Workouts.md",
+    "Gym/Push",
+    "Gym/Pull",
+    "Gym/Hammy",
+    "Gym/Quad",
+    "Gym/Push Day.md",
+    "Gym/Untitled.md",
+    "Gym/PUSH Sep-30-2025.md",
+    "Gym/Sep-30-2025.md",
+    "Gym/Some Word2025-09-30 175313.md",
+    "Gym/Untitled 1.md",
+    "Gym/Untitled 1 1.md",
+    "Gym/Sep 30 2025.md",
     "Templates",
     "README.md",
     "Ink/Writing/2025.9.30 - 16.55pm.writing",
