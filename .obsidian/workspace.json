@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "514b54df142df3a3",
+        "id": "f90cb10566d0c6c3",
         "type": "tabs",
         "children": [
           {
-            "id": "e458ab8946b3b53a",
+            "id": "5936b6028161a137",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
+            }
+          },
+          {
+            "id": "8d7623565e262dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "this is a test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "this is a test"
+            }
+          },
+          {
+            "id": "1f2ac020fd5f158f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,14 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2caba26211367081",
+  "active": "1f2ac020fd5f158f",
   "lastOpenFiles": [
-    "Ink/Writing/2025.9.30 - 16.47pm.writing",
-    "This was on ipad.md",
     "this is a test.md",
-    "dwad.md",
-    "README.md",
-    "Ink/Writing",
-    "Ink"
+    "Untitled.md",
+    "README.md"
   ]
 }
