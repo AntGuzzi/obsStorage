@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a10d5c353c93640",
+        "id": "1579ae2e2a2d3ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "aa2510be1fcb0ab5",
+            "id": "a8ce7d046c28f4fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dwad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dwad"
+              "title": "New tab"
             }
           }
         ]
@@ -154,13 +150,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa2510be1fcb0ab5",
+  "active": "a8ce7d046c28f4fe",
   "lastOpenFiles": [
+    "dwad.md",
     "This was on ipad.md",
     "Ink/Writing/2025.9.30 - 16.47pm.writing",
     "Ink/Writing",
     "Ink",
-    "dwad.md",
     "this is a test.md",
     "Tests.md",
     "README.md"
