@@ -1,5 +1,5 @@
 
-# {{date:YYYY-MM-DD}} – Workout Log 🏋️
+# {{date:DD-MM-YYYY}} – Workout Log 🏋️
 
 ---
 

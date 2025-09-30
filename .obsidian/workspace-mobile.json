@@ -1,52 +1,37 @@
 {
   "main": {
-    "id": "d6f28684aca2dd00",
+    "id": "15b712a60b9b1918",
     "type": "split",
     "children": [
       {
-        "id": "8cb1f003b38d4687",
+        "id": "0bc3e8c49f38cae3",
         "type": "tabs",
         "children": [
           {
-            "id": "c434b554b79e1eb6",
+            "id": "e61f815932a6cafc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Gym Plan.md",
+                "file": "Gym/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gym Plan"
-            }
-          },
-          {
-            "id": "2abf2933b0e20134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gym/Push Day.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Push Day"
+              "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1dc2f3e164389d60",
+    "id": "3ce0a76db4ae2333",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d4d8fad7698c0c3f",
+        "id": "370ccce927f8bc29",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -59,7 +44,7 @@
         }
       },
       {
-        "id": "fd57b6db3d1bd941",
+        "id": "2c191667a3f76593",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -76,7 +61,7 @@
         }
       },
       {
-        "id": "d7300359cde42322",
+        "id": "0209d5dadeef2bf3",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -91,7 +76,7 @@
         }
       },
       {
-        "id": "7f412580fdb604be",
+        "id": "8b63ea23a0d96b52",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -104,16 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "9973a6718cb4349b",
+    "id": "ab6c3b80ea4d1986",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4aacc738866f2e8a",
+        "id": "f48f48ac22176049",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "This was on ipad.md",
+            "file": "Gym/Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,12 +112,12 @@
         }
       },
       {
-        "id": "6df1ef90f3e11391",
+        "id": "b1bde11454a8377e",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "This was on ipad.md",
+            "file": "Gym/Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -141,12 +126,12 @@
         }
       },
       {
-        "id": "9d1c29239333aa13",
+        "id": "4808d05c3ddbb7c8",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "This was on ipad.md",
+            "file": "Gym/Untitled 1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -160,31 +145,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2abf2933b0e20134",
+  "active": "e61f815932a6cafc",
   "lastOpenFiles": [
-    "Gym/Gym Plan.md",
-    "Gym/Push Day.md",
+    "Gym/202509301724.md",
     "Gym/Untitled 1.md",
+    "Gym/Sep 30 2025.md",
+    "Gym/Push Day.md",
+    "Gym/Gym Plan.md",
+    "Templates/Workouts.md",
+    "Test.md",
+    "Gym",
+    "README.md",
+    "Templates",
     "Ink/Writing/2025.9.30 - 16.55pm.writing",
     "Ink/Writing",
-    "Ink/Drawing/2025.9.30 - 16.54pm.drawing",
-    "Ink/Drawing",
-    "Ink",
-    "Gym",
-    "dwad.md",
-    "This was on ipad.md",
-    "Ink/Writing/2025.9.30 - 16.47pm.writing",
-    "this is a test.md",
-    "Tests.md",
-    "README.md"
+    "Ink"
   ]
 }

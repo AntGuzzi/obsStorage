@@ -4,26 +4,26 @@
 ---
 
 ## Push Day
-| Exercise           | Weight (lbs/kg) | Reps | Sets | Notes / PB |
-|--------------------|-----------------|------|------|------------|
-| Bench Press        |                 |      |      |            |
-| Overhead Press     |                 |      |      |            |
-| Incline DB Press   |                 |      |      |            |
-| Lateral Raises     |                 |      |      |            |
-| Tricep Pushdowns   |                 |      |      |            |
-| Dips               |                 |      |      |            |
+| Exercise         | Weight (lbs/kg) | Reps | Sets | Notes / PB |
+| ---------------- | --------------- | ---- | ---- | ---------- |
+| Bench Press      |                 |      |      |            |
+| Overhead Press   |                 |      |      |            |
+| Incline DB Press |                 |      |      |            |
+| Lateral Raises   |                 |      |      |            |
+| Tricep Pushdowns |                 |      |      |            |
+| Dips             |                 |      |      |            |
 
 ---
 
 ## Pull Day
-| Exercise           | Weight (lbs/kg) | Reps | Sets | Notes / PB |
-|--------------------|-----------------|------|------|------------|
-| Deadlift           |                 |      |      |            |
-| Barbell Row        |                 |      |      |            |
-| Pull-Ups / Lat PD  |                 |      |      |            |
-| Face Pulls         |                 |      |      |            |
-| Bicep Curls        |                 |      |      |            |
-| Shrugs             |                 |      |      |            |
+| Exercise          | Weight (lbs/kg) | Reps | Sets | Notes / PB |
+| ----------------- | --------------- | ---- | ---- | ---------- |
+| Deadlift          |                 |      |      |            |
+| Barbell Row       |                 |      |      |            |
+| Pull-Ups / Lat PD |                 |      |      |            |
+| Face Pulls        |                 |      |      |            |
+| Bicep Curls       |                 |      |      |            |
+| Shrugs            |                 |      |      |            |
 
 ---
 
