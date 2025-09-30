@@ -1,5 +1,5 @@
 
-# 2025-09-30 – Workout Log 🏋️
+# {{date:YYYY-MM-DD}} – Workout Log 🏋️
 
 ---
 
@@ -28,14 +28,14 @@
 ---
 
 ## Leg Day
-| Exercise          | Weight (lbs/kg) | Reps | Sets | Notes / PB |
-| ----------------- | --------------- | ---- | ---- | ---------- |
-| Squat             |                 |      |      |            |
-| Romanian Deadlift |                 |      |      |            |
-| Leg Press         |                 |      |      |            |
-| Lunges            |                 |      |      |            |
-| Leg Curls         |                 |      |      |            |
-| Calf Raises       |                 |      |      |            |
+| Exercise           | Weight (lbs/kg) | Reps | Sets | Notes / PB |
+|--------------------|-----------------|------|------|------------|
+| Squat              |                 |      |      |            |
+| Romanian Deadlift  |                 |      |      |            |
+| Leg Press          |                 |      |      |            |
+| Lunges             |                 |      |      |            |
+| Leg Curls          |                 |      |      |            |
+| Calf Raises        |                 |      |      |            |
 
 ---
 
