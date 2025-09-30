@@ -1,0 +1,2 @@
+# obsStorage
+storage for obsidian
