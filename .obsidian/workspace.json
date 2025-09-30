@@ -11,10 +11,14 @@
             "id": "e458ab8946b3b53a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "This was on ipad.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "This was on ipad"
             }
           }
         ]
@@ -178,6 +182,10 @@
   },
   "active": "e458ab8946b3b53a",
   "lastOpenFiles": [
+    "This was on ipad.md",
+    "Ink/Writing/2025.9.30 - 16.47pm.writing",
+    "Ink/Writing",
+    "Ink",
     "README.md",
     "this is a test.md",
     "dwad.md"
